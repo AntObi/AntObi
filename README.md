@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 3rd year PhD student in the [Walsh Materials Design group](https://wmd-group.github.io/) in the [Department of Materials at Imperial College London](https://www.imperial.ac.uk/materials/)
+I am a 4th year PhD student in the [Walsh Materials Design group](https://wmd-group.github.io/) in the [Department of Materials at Imperial College London](https://www.imperial.ac.uk/materials/)
 
 - 🔭 I’m currently working on materials discovery research related to materials informatics and solid-state batteries
 - 🌱 I’m currently learning how to develop and deploy [PyTorch](https://pytorch.org/) models
