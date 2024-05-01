@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 4th year PhD student in the [Walsh Materials Design group](https://wmd-group.github.io/) in the [Department of Materials at Imperial College London](https://www.imperial.ac.uk/materials/)
+I am an EPSRC Doctoral Prize Fellow in the [Walsh Materials Design group](https://wmd-group.github.io/) in the [Department of Materials at Imperial College London](https://www.imperial.ac.uk/materials/)
 
 - 🔭 I’m currently working on materials discovery research related to materials informatics and solid-state batteries
 - 🌱 I’m currently learning how to develop and deploy [PyTorch](https://pytorch.org/) models
@@ -8,7 +8,6 @@ I am a 4th year PhD student in the [Walsh Materials Design group](https://wmd-gr
 - 📫 How to reach me: anthony.onwuli16@imperial.ac.uk
 - ⚡ Fun fact: I play lacrosse and do cosplay
 
-I now maintain 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AntObi?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 <!--
