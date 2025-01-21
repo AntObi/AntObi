@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I am an EPSRC Doctoral Prize Fellow in the [Walsh Materials Design group](https://wmd-group.github.io/) in the [Department of Materials at Imperial College London](https://www.imperial.ac.uk/materials/)
+I am an ML Scientist at [MatNex](https://www.matnex.ai) with prior research experience as an EPSRC Doctoral Prize Fellow in the [Walsh Materials Design group](https://wmd-group.github.io/) in the [Department of Materials at Imperial College London](https://www.imperial.ac.uk/materials/).
 
-- 🔭 I’m currently working on materials discovery research related to materials informatics and solid-state batteries
-- 🌱 I’m currently learning how to develop and deploy [PyTorch](https://pytorch.org/) models
-- 👯 I’m looking to collaborate on solid state electrolytes research and compositional materials discovery research related to our code [SMACT](https://github.com/WMD-group/SMACT)
+- 🔭 I’m currently working on accelerating materials discovery.
 - 📫 How to reach me: anthony.onwuli16@imperial.ac.uk
 - ⚡ Fun fact: I play lacrosse and do cosplay
 
