@@ -3,7 +3,7 @@
 I am an ML Scientist at [MatNex](https://www.matnex.ai) with prior research experience as an EPSRC Doctoral Prize Fellow in the [Walsh Materials Design group](https://wmd-group.github.io/) in the [Department of Materials at Imperial College London](https://www.imperial.ac.uk/materials/).
 
 - 🔭 I’m currently working on accelerating materials discovery.
-- 📫 How to reach me: anthony.onwuli16@imperial.ac.uk
+- 📫 How to reach me: aonwuli@proton.me
 - ⚡ Fun fact: I play lacrosse and do cosplay
 
 
